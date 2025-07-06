@@ -3,13 +3,21 @@ A simple yet powerful task management web application that helps you organize yo
 
 ## Features
    ✅ Add tasks with descriptions, due dates, and priority levels (Low/Medium/High)
+   
    ✔️ Mark tasks as completed with visual indicators
+   
    ✏️ Edit existing tasks
+   
    🔍 Search through your tasks
+   
    📅  Sort tasks by date or priority
+   
    🗑️ Delete tasks or clear completed ones
+   
    🌓 Light/Dark theme toggle
+   
    💾 Automatic local storage saving
+   
 ## Technologies Used
 
 HTML5
